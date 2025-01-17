@@ -1,7 +1,0 @@
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\bin\Debug\Wk1Ex1.exe.config
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\bin\Debug\Wk1Ex1.exe
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\bin\Debug\Wk1Ex1.pdb
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\obj\Debug\Wk1Ex1.csproj.AssemblyReference.cache
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\obj\Debug\Wk1Ex1.csproj.CoreCompileInputs.cache
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\obj\Debug\Wk1Ex1.exe
-D:\Computer Programming\Wk1Ex1\Wk1Ex1\Wk1Ex1\obj\Debug\Wk1Ex1.pdb
